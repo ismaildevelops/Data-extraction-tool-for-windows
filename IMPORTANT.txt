@@ -1,0 +1,4 @@
+The program has been designed to expose some of the vulnerabilities of
+windows operating system. The program should only be used for testing purposes and 
+developing further solutions for mitigating the threats of data extraction.
+Most of the commands are general command line arguments.
